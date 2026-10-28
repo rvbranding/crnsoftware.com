@@ -16,12 +16,12 @@ export default {
     "cms"
   ],
   "palette": {
-    "paper": "251 248 245",
-    "paper2": "251 233 226",
+    "paper": "245 250 249",
+    "paper2": "225 245 243",
     "ink": "14 36 38",
-    "volt": "255 122 89",
+    "volt": "79 209 197",
     "blaze": "17 94 89",
-    "muted": "95 108 108"
+    "muted": "93 109 110"
   },
   "hero": {
     "eyebrow": "Software development consulting",
